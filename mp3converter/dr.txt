@@ -1,0 +1,3 @@
+/home/trathiel/mp3converter/myMusıc/NathanHaines-UbuntuThroughTheYears.ogg
+/home/trathiel/mp3converter/myMusıc/JenyfaDuncan-Australia.ogg
+/home/trathiel/mp3converter/myMusıc/asd.flac
