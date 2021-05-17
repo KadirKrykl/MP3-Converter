@@ -6,7 +6,7 @@
 
 **Note:** Before using, check whether ffmpeg exists or not, if it does not exist, you should install ffmpeg via command line 
 
-    "sudo apt-get install ffmpeg"
+    sudo apt-get install ffmpeg
 
 **How To Use This Program;**
 
